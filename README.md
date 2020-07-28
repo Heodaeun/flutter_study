@@ -1,4 +1,4 @@
-# fluter_lec
+# flutter_study
 
 A new Flutter project.
 
